@@ -1,0 +1,33 @@
+
+--------------
+Final Scores
+-------
+You played 2 rounds
+Player 1:	2
+CPU:		0
+Fri Apr  7 16:22:48 2023
+
+--------------
+Final Scores
+-------
+You played 3 rounds
+Player 1:	2
+Player 2:	1
+Fri Apr  7 16:23:08 2023
+
+
+--------------
+Final Scores
+-------
+You Played 4 rounds
+Player 1:	2
+CPU:		1
+ Fri Apr  7 16:27:08 2023
+
+--------------
+Final Scores
+-------
+You played 3 rounds
+Player 1:	2
+Player 2:	1
+Fri Apr  7 16:28:20 2023
